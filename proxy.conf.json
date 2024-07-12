@@ -1,0 +1,8 @@
+{
+    "/run": {
+      "target": "https://rz3htjcz-mygpt2.tin.lepton.run",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel": "debug"
+    }
+  }
