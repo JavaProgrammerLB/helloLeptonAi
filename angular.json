@@ -92,6 +92,13 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "http://yitianyigexiangfa.com/helloLeptonAi/",
+            "repo": "https://github.com/JavaProgrammerLB/helloLeptonAi.git"
+          }
         }
       }
     }
